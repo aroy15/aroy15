@@ -8,8 +8,6 @@
 
 - 🌱 I’m currently learning **Next.js**
 
-- 📝 I regularly write articles on [StorialTech](https://www.storialtech.com/tutorial/category/full-stack-development)
-
 - 💬 Ask me about **React, JavaScript, WordPress**
 
 - 📫 How to reach me **anjonroy57@gmail.com**
