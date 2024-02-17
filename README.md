@@ -1,14 +1,14 @@
 <img src="https://i.ibb.co/wBbKZ2N/Anjon-Roy-Full-stack-Developer.webp" align="center" alt="Anjon Roy"/>
 
 <h1 align="center">Hi 👋, I'm Anjon Roy</h1>
-<h3 align="center">A passionate Full-stack developer from Bangladesh</h3>
+<h3 align="center">A passionate WordPress & Front-end developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aroy15&label=Profile%20views&color=0e75b6&style=flat" alt="aroy15" /> </p>
 
 
 - 🌱 I’m currently learning **Next.js**
 
-- 💬 Ask me about **React, JavaScript, WordPress**
+- 💬 Ask me about **WordPress, React, JavaScript, jQuery**
 
 - 📫 How to reach me **anjonroy57@gmail.com**
 
